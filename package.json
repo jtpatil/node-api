@@ -1,12 +1,12 @@
 {
   "name": "example",
   "version": "1.0.0",
-  "description": "Example",
+  "description": "Example Node Api",
   "main": "index.js",
   "scripts": {
     "start": "node index.js"
   },
-  "author": "Christian Dallago <code@dallago.us> (https://github.com/sacdallago)",
+  "author": "Jitendra Patil <jtpatil@gmail.com> (https://github.com/jtpatil)",
   "license": "ISC",
   "dependencies": {
       "express": "latest",
